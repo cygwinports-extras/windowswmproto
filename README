@@ -1,6 +1,6 @@
 windowswmproto
 ------------------------------------------
-Xorg WindowsWM protocol headers
+X.Org WindowsWM protocol headers
 
 Build requirements:
   cygwin-1.5.20-1
