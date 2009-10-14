@@ -1,4 +1,4 @@
 category: X11
 requires: xproto
-sdesc: "X.Org WindowsWM protocol headers"
-ldesc: "X.Org WindowsWM protocol headers"
+sdesc: "X.Org WindowsWM extension headers"
+ldesc: "X.Org WindowsWM extension headers"
